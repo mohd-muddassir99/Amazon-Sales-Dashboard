@@ -1,7 +1,6 @@
 # 📊 Amazon Sales Dashboard
 
-This project presents a fully interactive **Amazon Sales Dashboard** built in **Power BI**. It merges Amazon Sales Data with Amazon Fashion Product Details to deliver insights on regional performance, product trends, and category-level breakdowns.
-
+This project focuses on designing a dynamic and interactive Amazon Sales Dashboard using Power BI by merging two datasets: Amazon Sales Data and Amazon Fashion Details. The goal is to deliver meaningful insights into product sales, category performance, regional trends, and product-level details to aid decision-making and improve strategic focus.
 ---
 
 ## 🔍 Introduction
