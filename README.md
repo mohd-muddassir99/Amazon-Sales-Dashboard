@@ -57,7 +57,7 @@ The dashboard provides a 360-degree view of Amazon product performance by integr
 ---
 ## 📸 Dashboards Preview
 
-- **1) Amazon Sales Overview**
+- **1).  Amazon Sales Overview**
   
 
 
