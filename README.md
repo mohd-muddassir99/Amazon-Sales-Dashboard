@@ -65,6 +65,10 @@ https://github.com/user-attachments/assets/11ad50e6-ee95-484a-a5a5-64b26ddd1501
 
 https://github.com/user-attachments/assets/6040ef28-d69b-43a8-abff-fcf12a49d6b9
 
+- **3).  Products Preview**
+
+https://github.com/user-attachments/assets/426e6aab-5ddc-4037-9629-fbdc2573228b
+
 ---
 
 ## 📈 Insights
