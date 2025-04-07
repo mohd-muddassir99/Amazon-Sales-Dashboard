@@ -110,7 +110,23 @@ https://github.com/user-attachments/assets/426e6aab-5ddc-4037-9629-fbdc2573228b
 
 ---
 
+View the **Amazon Sales Overview** here:
 
+<p align="center">
+    <a href="https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20transaction.pdf">
+        <img src="https://static.vecteezy.com/system/resources/previews/010/750/673/non_2x/pdf-icon-on-white-background-file-pdf-icon-sign-pdf-format-symbol-flat-style-free-vector.jpg" width="65px" alt="Access Dataset"><br>
+        Amazon Sales Overview
+    </a>
+</p> <br>
+
+View the **Credit Card Customer Analysis Dashboard** here:
+
+<p align="center">
+    <a href="https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20customer.pdf">
+        <img src="https://static.vecteezy.com/system/resources/previews/010/750/673/non_2x/pdf-icon-on-white-background-file-pdf-icon-sign-pdf-format-symbol-flat-style-free-vector.jpg" width="65px" alt="Access Dataset"><br>
+        Credit Card Customer Analysis
+    </a>
+</p> <br>
 
 ## 📬 Contact
 
