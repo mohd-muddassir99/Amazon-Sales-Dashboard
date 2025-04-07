@@ -76,16 +76,6 @@ The dashboard provides a 360-degree view of Amazon product performance by integr
 
 ---
 
-## 📁 Repository Contents
-
-| File/Folder | Description |
-|-------------|-------------|
-| `Amazon Sales Dashboard.pbix` | Power BI file with all visuals and data |
-| `README.md` | Project overview and documentation |
-| `Screenshots/` *(optional)* | Dashboard preview images |
-| `Insights_Summary.pdf` *(optional)* | Summary of insights and recommendations |
-
----
 
 ## 🛠️ Tools Used
 
