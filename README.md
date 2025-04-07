@@ -61,6 +61,9 @@ The dashboard provides a 360-degree view of Amazon product performance by integr
 
 https://github.com/user-attachments/assets/11ad50e6-ee95-484a-a5a5-64b26ddd1501  
 
+- **2).  Category Analysis**
+
+https://github.com/user-attachments/assets/6040ef28-d69b-43a8-abff-fcf12a49d6b9
 
 ---
 
