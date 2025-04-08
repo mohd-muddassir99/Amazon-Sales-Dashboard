@@ -113,7 +113,7 @@ https://github.com/user-attachments/assets/426e6aab-5ddc-4037-9629-fbdc2573228b
 View the **Amazon Sales Overview** here:
 
 <p align="center">
-    <a href="https://github.com/mohd-muddassir99/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20transaction.pdf">
+    <a href="https://github.com/mohd-muddassir99/Amazon-Sales-Dashboard/blob/4b78082a6b6f5dbbd2c766364550e19e36818da7/Amazon%20Sales%20Overview.pdf">
         <img src="https://static.vecteezy.com/system/resources/previews/010/750/673/non_2x/pdf-icon-on-white-background-file-pdf-icon-sign-pdf-format-symbol-flat-style-free-vector.jpg" width="65px" alt="Access Dataset"><br>
         Amazon Sales Overview
     </a>
