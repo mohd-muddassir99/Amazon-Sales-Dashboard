@@ -137,9 +137,19 @@ View the **Products Preview Dashboard** here:
     </a>
 </p> <br>
 
-## 📬 Contact
-
-For questions, feedback, or collaboration ideas, feel free to reach out!
-
 ---
+
+<div align="center">
+Thanks for checking out my Credit Card Transaction Dashboard project! Your interest means a lot. Feel free to reach out if you have any questions or feedback. Happy analyzing! 😊<br>
+ 🔗 Connect with me on LinkedIn 
+ 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mohd-muddassir99/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="65px" alt="Access Dataset"><br>
+        LinkedIn
+    </a>
+
+   | **Mohd Muddassir** | </a> <br>
+Don't forget to follow and star ⭐ the repository if you find it valuable.
+</div>
 
