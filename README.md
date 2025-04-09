@@ -3,7 +3,7 @@ This project focuses on designing a dynamic and interactive **Amazon Sales Dashb
 
 ---
 
-## 🔍 Introduction:
+## 🔍 Introduction :
 
 The dashboard provides a 360-degree view of Amazon product performance by integrating transactional sales data with rich product metadata. It allows users to explore key metrics, track trends, and make informed decisions with interactive visuals and filters.
 
