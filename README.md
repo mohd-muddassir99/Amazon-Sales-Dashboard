@@ -18,7 +18,6 @@ The dashboard provides a 360-degree view of Amazon product performance by integr
 - Enable product preview with image, price, and description for better product understanding.
 
 ---
-
 ## ⚙️ Process
 
 ### 1. **Data Cleaning & Modeling**
